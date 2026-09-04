@@ -2,7 +2,7 @@
 
 ### 🚀 Web/Cloud Architect | Agentic AI & MCP Builder | Founder @ Vebrixa
 
-I help businesses build fast, scalable web platforms and intelligent software. By day, I architect cloud-hosted websites that load in <2s. By night, I'm **vibe coding**—building autonomous agents, Model Context Protocols (MCPs), and robust enterprise management systems. 
+I help businesses build fast, scalable web platforms and intelligent software. By day, I architect cloud-hosted websites that load in <2s. By night, I'm **vibe coding**-building autonomous agents, Model Context Protocols (MCPs), and robust enterprise management systems. 
 
 📍 Based in Faisalabad, PK | 🌍 Open to Global Remote & Relocation
 
@@ -13,7 +13,7 @@ I am deeply passionate about the future of developer workflows and Generative AI
 - **Agentic & Generative AI:** Building intelligent workflows, custom LLM integrations, and autonomous agents.
 - **MCP (Model Context Protocol):** Actively developing custom MCP servers to bridge AI with local environments, specifically tailored for tools like **OpenCode**.
 - **Custom Subagents & Skills:** Architecting highly specialized subagents and skills for OpenCode and other AI tools to automate personal and enterprise-level workflows.
-- **Vibe Coding:** Mastering flow-state development—leveraging intuition, modern AI tooling, and rapid prototyping to ship complex features at lightning speed.
+- **Vibe Coding:** Mastering flow-state development-leveraging intuition, modern AI tooling, and rapid prototyping to ship complex features at lightning speed.
 
 ### 💼 Enterprise & Management Systems
 Beyond web & AI, I architect comprehensive, custom-built management systems tailored to specific industries:
